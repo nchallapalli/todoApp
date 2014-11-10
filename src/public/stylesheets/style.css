@@ -1,0 +1,26 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.container{
+    width:500px;
+}
+
+.container .entry{
+    display:inline;
+}
+
+.container .entry .inputEntry{
+    width:200px;
+    line-height:20px;
+}
+
+.container .action{
+    display:inline;
+    padding:10px
+}
